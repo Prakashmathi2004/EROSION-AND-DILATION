@@ -31,7 +31,7 @@ import numpy as np
 
 # Create the Text using cv2.putText
 
-IMg= np.zeros((350,1400),dtype ='uint8')
+img= np.zeros((350,1400),dtype ='uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
 cv2.putText(img,'M.PRAKASH',(15,200),font,5,(255),10,cv2.LINE_AA)
 cv2.imshow('created_text',img)
