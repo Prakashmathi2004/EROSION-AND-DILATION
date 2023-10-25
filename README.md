@@ -78,13 +78,21 @@ cv2.destroyAllWindows()
 
 ### Display the input Image
 
+<img width="913" alt="image" src="https://github.com/Prakashmathi2004/EROSION-AND-DILATION/assets/118350045/70da9ac4-55f2-4766-9c80-19f118ad8d38">
+
 
 
 ### Display the Eroded Image
 
+<img width="902" alt="image" src="https://github.com/Prakashmathi2004/EROSION-AND-DILATION/assets/118350045/ecbf1466-31ab-4cbd-b5cd-81fb97389bb7">
+
+<img width="923" alt="image" src="https://github.com/Prakashmathi2004/EROSION-AND-DILATION/assets/118350045/9b60136d-2697-49f1-b02d-27bb0170de41">
 
 ### Display the Dilated Image
 
+<img width="928" alt="image" src="https://github.com/Prakashmathi2004/EROSION-AND-DILATION/assets/118350045/6ef74aa8-1e0d-4b69-b7b4-fcc5b290a81c">
+
+<img width="924" alt="image" src="https://github.com/Prakashmathi2004/EROSION-AND-DILATION/assets/118350045/00001e96-9b6d-4741-9531-a257220ed12f">
 
 
 ## Result
